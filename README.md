@@ -16,6 +16,12 @@ rumus nya sih gini :
 Terlihat Pusing yaa sob, tenang kita rubah aja kebentuk bahasa pyton yaa. .
 
 _________________________________________
+
+![alt text](https://github.com/Denny-Risnandar/TASK-REPOSITORY/blob/main/zeller%20congruence.png)
+
+![alt text](https://github.com/Denny-Risnandar/TASK-REPOSITORY/blob/main/zeller%20congruence%202.png)
+
+
 Gabungan rumus Pengkondisian (If-Else) dan Perulangan (For dan While)
 
 yg pertama kita buat untuk tampilan perintah inputan tanggal, 
